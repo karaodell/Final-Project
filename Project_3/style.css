@@ -1,0 +1,182 @@
+body {
+    font-family: "expo-sans-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 55px;
+    width: 100%;
+    margin:auto;
+    color: #ffff;
+}
+
+
+.align-center {
+    width: 85%;
+    padding:0%;
+    margin-left: 7%;
+    
+}
+        .button1 {
+            background-image:url(assets/Orange_Block.png);
+            background-repeat: no-repeat;
+            background-size:cover;
+            text-align:justify;
+            display: inline-block;
+            margin: 4px 50px;
+            z-index:0;
+            position: relative;
+            left: 800px;
+            margin-top:-2%;
+            margin-bottom:-1%;
+}
+        .button2 {
+            background-image:url(assets/Light_orange_block.png);
+            background-repeat: no-repeat;
+            background-size:cover;
+            text-align:center;
+            display: inline-block;
+            margin: 4px 50px;
+            z-index:0;
+            position: relative;
+            left: 800px;
+            text-decoration:none;
+            color: #ffff;
+            margin-top:-2%;
+            margin-bottom:-1%;
+}
+        a:hover {
+            text-decoration: none;
+            cursor:pointer;
+}
+        a:active {
+            text-decoration:none;
+}
+        a:visited {
+            text-decoration:none;
+            color: white;
+}
+        a:link {
+            text-decoration: none;
+}
+        .button3 {
+            background-image:url(assets/green-block.png);
+            background-repeat: no-repeat;
+            background-size:cover;
+            text-align:center;
+            display: inline-block;
+            margin: 4px 50px;
+            z-index:0;
+            position: relative;
+            left: 800px;
+            margin-top:-2%;
+            margin-bottom:-1%
+}
+
+
+
+#content {
+    margin:auto;
+    width:3000px;
+}
+
+        .rule1, .rule2, .rule3 {
+            width:85%;    
+            margin-top: 1%;
+            position: center;
+            padding:0%;
+            margin-left:8%;
+}
+       
+        .photo-one {
+            float:left;
+            width:33%;
+            margin-top:1%;
+            margin-left: 15%;
+         
+}
+        .greentext {
+           float:left;
+            width:25%;
+            margin-top:1%;
+            margin-left: 6%;
+            
+}
+      
+        .blue-block  {
+          float:left;
+          width:37%;
+          margin-top: 1%;    
+          margin-left: 15%;
+        
+}
+
+       .photo-two {
+         float:right;
+         width:22%;
+         margin-top: 1%;
+         margin-right: 20%;
+}
+
+
+        .orangetext {
+         float:left;
+         width: 38%;
+         margin-top:3%;
+         margin-left: 6%;
+}
+
+   .photo-three  {
+         float: left;
+         width: 33%;
+         margin-top:3%;
+         margin-left: 15%;
+            
+}
+        .footer {
+            margin-left:19%;
+}
+            
+        .social {
+             margin-left:19%;
+            padding-left:5%;
+            }    
+        
+}
+        .p {
+            position:center;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+}
+
+.rowtop1 {
+    margin-left: 10%;
+} 
+
+    .happyapps {
+       float:left;
+        width:25%;
+        margin-top:2%;
+        margin-left: 10%;
+        
+}
+    .tacos {
+        float:left;
+        width:25%;
+        margin-top:2%;
+        margin-left: 0%;
+}
+
+    .favs {
+        float:left;
+        width:25%;
+        margin-top:2%;
+        margin-left: 0%;
+}
+    
+    
+#footermenu {
+    margin-top:10%;
+    margin-right: 12%;
+    
+        
+}
